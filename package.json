@@ -1,0 +1,30 @@
+{
+  "name": "auto-encrypt-decrypt-on-Fhenix-Testnet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Daily alternating encrypt/decrypt bot on Fhenix Testnet.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fhenix",
+    "airdrop",
+    "bot",
+    "swap",
+    "web3",
+    "encrypt",
+    "decrypt",
+    "crypto",
+    "blockchain",
+    "automation"
+  ],
+  "author": "Kurisaitou",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.12.0"
+  }
+}
